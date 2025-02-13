@@ -1,4 +1,3 @@
-version: '3.9'
 services:
 
   wordpress:
@@ -38,8 +37,6 @@ services:
       - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
     volumes:
       - ${MYSQL_LOCAL_HOME}:/var/lib/mysql
-    command:
-      - '--default-authentication-plugin=mysql_native_password'
 
   nginx:
     # default ports 80, 443 - expose mapping as needed to host
