@@ -1,0 +1,169 @@
+/* ==========================================================================
+   Pure Base Extras
+   ========================================================================== */
+
+/**
+ * Extra rules that Pure adds on top of Normalize.css
+ */
+
+/**
+ * Always hide an element when it has the `hidden` HTML attribute.
+ */
+
+.hidden, [hidden] {display: none !important;}
+
+/**
+ * Add this class to an image to make it fit within it's fluid parent wrapper while maintaining
+ * aspect ratio.
+ */
+.pure-img {max-width: 100%;height: auto;display: block;}
+/* Structure */
+.pure-button {display: inline-block;zoom: 1;line-height: normal;white-space: nowrap;vertical-align: middle;text-align: center;cursor: pointer;
+-webkit-user-drag: none;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;box-sizing: border-box;}
+
+/* Firefox: Get rid of the inner focus border */
+.pure-button::-moz-focus-inner {padding: 0;border: 0;}
+.pure-button {font-family: inherit;font-size: 100%;padding: 0.5em 1em;color: #444; /* rgba not supported (IE 8) */color: rgba(0, 0, 0, 0.80); /* rgba supported */
+border: 1px solid #999;  /*IE 6/7/8*/border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/background-color: #E6E6E6;text-decoration: none;border-radius: 2px;}
+
+.pure-button-hover,
+.pure-button:hover,
+.pure-button:focus {}
+.pure-button:focus {outline: 0;}
+.pure-button-active,
+.pure-button:active {box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;border-color: #000\9;}
+
+.pure-button[disabled],
+.pure-button-disabled,
+.pure-button-disabled:hover,
+.pure-button-disabled:focus,
+.pure-button-disabled:active {border: none;background-image: none;filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+filter: alpha(opacity=40);-khtml-opacity: 0.40;-moz-opacity: 0.40;opacity: 0.40;cursor: not-allowed;box-shadow: none;}
+
+.pure-button-hidden {display: none;}
+
+/* Firefox: Get rid of the inner focus border */
+.pure-button::-moz-focus-inner{padding: 0;border: 0;}
+
+.pure-button-primary,
+.pure-button-selected,
+a.pure-button-primary,
+a.pure-button-selected {background-color: rgb(0, 120, 231);color: #fff;}
+
+.pure-table {border-collapse: collapse;border-spacing: 0;empty-cells: show;border: 1px solid #cbcbcb;}
+.pure-table caption {color: #000;font: italic 85%/1 arial, sans-serif;padding: 1em 0;text-align: center;}
+
+.pure-table td,
+.pure-table th {border-left: 1px solid #cbcbcb;/*  inner column border */border-width: 0 0 0 1px;font-size: inherit;
+margin: 0;overflow: visible; /*to make ths where the title is really long work*/padding: 0.5em 1em; /* cell padding */}
+
+/* Consider removing this next declaration block, as it causes problems when
+there's a rowspan on the first cell. Case added to the tests. issue#432 */
+.pure-table td:first-child, .pure-table th:first-child {border-left-width: 0;}
+.pure-table thead {background-color: #e0e0e0;color: #000;text-align: left;vertical-align: bottom;}
+
+/*
+striping:
+   even - #fff (white)
+   odd  - #f2f2f2 (light gray)
+*/
+.pure-table td {background-color: transparent;}
+.pure-table-odd td {background-color: #f2f2f2;}
+/* nth-child selector for modern browsers */
+.pure-table-striped tr:nth-child(2n-1) td {background-color: #f2f2f2;}
+
+/* BORDERED TABLES */
+.pure-table-bordered td {border-bottom: 1px solid #cbcbcb;}
+.pure-table-bordered tbody > tr:last-child > td {border-bottom-width: 0;}
+
+/* HORIZONTAL BORDERED TABLES */
+.pure-table-horizontal td, .pure-table-horizontal th {border-width: 0 0 1px 0;border-bottom: 1px solid #cbcbcb;}
+.pure-table-horizontal tbody > tr:last-child > td {border-bottom-width: 0;}
+
+
+/* ==========================================================================
+   Plugin's styles
+   ========================================================================== */
+/* some base styles */
+.uni-ec-main-wrapper * {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+.uni-ec-main-wrapper a {text-decoration: none;color: #9eb2c0;}
+.uni-ec-main-wrapper a:hover {text-decoration: underline;}
+.uni-ec-main-wrapper p {font-size: 13px;font-family: sans-serif;color: #898b8d;margin: 15px 0 5px 20px;}
+.uni-ec-main-wrapper ul {list-style: none;margin: 0;padding: 0;}
+.uni-ec-main-wrapper .btn {display: inline-block;line-height: 35px;font-size: 13px;font-family: sans-serif;font-weight: bold;text-transform: uppercase;
+border-radius: 0;background: #f97e76;color: #ffffff;text-align: center;-webkit-transition: background .5s ease-out;-moz-transition: background .5s ease-out;
+-o-transition: background .5s ease-out;-ms-transition: background .5s ease-out;transition: background .5s ease-out;}
+.uni-ec-main-wrapper .btn:hover {text-decoration: none;background: #F75145;cursor:pointer;}
+.uni-ec-main-wrapper button, .uni-ec-main-wrapper a.btn {border: none;padding: 3px 13px;}
+.uni-ec-main-wrapper .btn.btn-success {background: #5FD85F;}
+.uni-ec-main-wrapper .btn.btn-success:hover {background: #32CD32;}
+.uni-ec-main-wrapper .btn.btn-warning {background: #FFC457;}
+.uni-ec-main-wrapper .btn.btn-warning:hover {background: #FFB224;}
+.uni-ec-main-wrapper .btn.btn-inform {background: #70B8FF;}
+.uni-ec-main-wrapper .btn.btn-inform:hover {background: #42A1FF;}
+
+/* common wrapper */
+.uni-ec-main-wrapper .uni-ec-universal-container {height: auto;background-color: #ffffff;box-shadow: rgba(0,0,0,0.2) 10px 10px 10px;}
+
+/* overwrites of styles for pure tables */
+.pure-table {border: none;background-color: #ffffff;box-shadow: rgba(0,0,0,0.2) 10px 10px 10px;}
+.pure-table caption {}
+.pure-table td,
+.pure-table th {border-left: 1px solid #ffffff;border-width: 0 0 0 1px;font-size: inherit;margin: 0;overflow: visible;padding: 0.5em 1em;}
+.pure-table th {font-size:16px;line-height: 2em;}
+.pure-table th button {border: medium none;color: rgb(255, 255, 255);background-color: rgb(46, 54, 65);}
+.pure-table td:first-child, .pure-table th:first-child {border-left-width: 0;}
+.pure-table thead {background-color: #2e3641;color: #fff;text-align: left;vertical-align: bottom;}
+.pure-table td {background-color: transparent;font-size:14px;}
+.pure-table-odd td {background-color: #f2f2f2;}
+.pure-table-striped tr:nth-child(2n-1) td {background-color: #f2f2f2;}
+
+.uni-ec-hidden {display:none;}
+.uni-clear {clear: none!important;}
+.uni-clear:after {display: block;height: 0;visibility: hidden;clear: both;content: ".";}
+
+/*  */
+.uni-ec-main-wrapper {margin:25px 0;}
+.uni-ec-main-wrapper .uni-ec-bar {background-color: #2e3641;text-align: center;}
+.uni-ec-main-wrapper .uni-ec-bar a {color: #c1cfd9;-webkit-transition: background .2s ease-out;-moz-transition: background .2s ease-out;-o-transition: background .2s ease-out;-ms-transition: background .2s ease-out;transition: background .2s ease-out;}
+.uni-ec-main-wrapper .uni-ec-bar a:hover {text-decoration: none;background: #242B33;}
+.uni-ec-main-wrapper .uni-ec-title-bar {height: auto;text-align: left;}
+.uni-ec-main-wrapper .uni-ec-title-bar h3 {margin: 0;padding: 10px 10px 9px 17px;line-height: 1.4em;font:inherit;font-size: 1.3em;}
+.uni-ec-main-wrapper .uni-ec-more-bar {background-color: #c1cfd9;position: relative;}
+
+/* promt msg */
+.uni-ec-main-wrapper .uni-ec-prompt-content {width: 100%;display: inline-block;text-align:center;padding: 30px 0;}
+.uni-ec-main-wrapper .uni-ec-prompt-content p {margin: 20px;}
+
+/* form */
+.uni-ec-main-wrapper .uni-ec-form-content {width: 100%;display: inline-block;text-align:center;padding: 30px 0;}
+.uni-ec-main-wrapper .uni-ec-form-content {width: 100%;display: inline-block;text-align:center;padding: 30px 0;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-form-section {width: 480px;text-align: left;margin: 0 0 35px 15px;padding:5px 20px;clear: both;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-form-section.uni-ec-form-section-with-btn {text-align:center;margin-bottom: 15px;}
+
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-form-section.uni-ec-form-section-modal {width: 370px;padding:0;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-form-section-nice-scroll {max-height:220px;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-form-section h5 {font-size:15px;margin: 0;margin-top:40px;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-form-section p {margin-left:0;font:inherit;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-info-section {margin-bottom: 35px;font:inherit;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-info-section.uni-ec-info-section-description {margin-top:25px;padding-right:15px;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-info-section.uni-ec-info-section-description p {margin-top:0;margin-bottom:20px;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-info-section.uni-ec-info-section-description p:nth-last-child(1) {margin-bottom:0;}
+.uni-ec-main-wrapper .uni-ec-form-content .uni-ec-info-section.last {margin-bottom: 0;}
+a.uni-ec-info-section-user-url, span.uni-ec-info-section-user-url {margin-right: 15px;}
+.uni-ec-info-section-link {text-align: center;}
+.uni-ec-info-section-link a.uni-ec-info-section-link-url {display: inline-block;background-color: #8ee69e;color: #3e3e3e;padding: 10px 20px;}
+.uni-ec-info-section-link a.uni-ec-info-section-link-url:hover {text-decoration:none;background-color: #5CDB73;}
+.uni-ec-info-section-availability-active {color: #6dc578;}
+.uni-ec-info-section-availability-cancelled {color: #fb6a6a;}
+
+
+#js-uni-ec-calendar {padding: 20px 30px;}
+#js-uni-calendar-all-events {position:relative}
+#js-uni-ec-calendar-info-modal-form {/*position:absolute; top:0; left:50%;*/ width: 400px; z-index: 9999;/*margin-left: -200px;*/}
+
+/* fc calendar styles */
+.uni-ec-main-wrapper table {padding:0;margin:0;}
+.uni-ec-main-wrapper table th, .uni-ec-main-wrapper table td {padding:0;}
+.uni-ec-main-wrapper table td {text-align:left;}

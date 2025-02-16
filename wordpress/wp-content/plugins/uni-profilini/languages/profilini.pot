@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MooMoo Web Studio
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Profilini 2.0.0-beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-12 13:35+0200\n"
+"PO-Revision-Date: 2017-01-12 13:35+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: uni-profilini.php:172
+msgid "Add/edit avatar image"
+msgstr ""
+
+#: includes/class-uni-profilini-ajax.php:242
+msgid "Cheating huh?"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:136
+#, php-format
+msgid " Avatar Image (user ID: %s)"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:187
+msgid "Sorry, you are not allowed to upload files."
+msgstr ""
+
+#: includes/uni-profilini-functions.php:218
+msgid "About the user"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:221
+msgid "Gender"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:224
+msgid "Not selected"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:225
+msgid "Male"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:226
+msgid "Female"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:231
+msgid "Profession"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:237
+msgid "Phone Number"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:243
+msgid "Profile Picture"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:255
+msgid "Links to Social Profiles"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:260
+msgid "Add a new link"
+msgstr ""
+
+#: includes/uni-profilini-functions.php:268
+#: includes/uni-profilini-functions.php:282
+#: includes/uni-profilini-functions.php:296
+msgid "Choose icon and define an URI"
+msgstr ""
+
+#: templates/default.php:27
+msgid "No avatar added yet!"
+msgstr ""

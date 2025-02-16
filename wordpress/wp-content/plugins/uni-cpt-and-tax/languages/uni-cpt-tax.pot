@@ -1,0 +1,610 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR HighSea Studio
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Uni CPT and Tax 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-05 10:49+0300\n"
+"PO-Revision-Date: 2016-05-05 10:49+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: uni-cpt-and-tax.php:31 uni-cpt-and-tax.php:454
+msgid "Home Sliders"
+msgstr ""
+
+#: uni-cpt-and-tax.php:32 uni-cpt-and-tax.php:455
+msgid "Home Slider"
+msgstr ""
+
+#: uni-cpt-and-tax.php:33 uni-cpt-and-tax.php:456
+msgid "New Slide"
+msgstr ""
+
+#: uni-cpt-and-tax.php:34 uni-cpt-and-tax.php:457
+msgid "Add New Slide"
+msgstr ""
+
+#: uni-cpt-and-tax.php:35 uni-cpt-and-tax.php:458
+msgid "Edit Slide"
+msgstr ""
+
+#: uni-cpt-and-tax.php:36 uni-cpt-and-tax.php:459
+msgid "All slides"
+msgstr ""
+
+#: uni-cpt-and-tax.php:37 uni-cpt-and-tax.php:460
+msgid "View Slide"
+msgstr ""
+
+#: uni-cpt-and-tax.php:38 uni-cpt-and-tax.php:461
+msgid "Search Slides"
+msgstr ""
+
+#: uni-cpt-and-tax.php:39 uni-cpt-and-tax.php:462
+msgid "Slides not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:40 uni-cpt-and-tax.php:463
+msgid "Slides not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:42 uni-cpt-and-tax.php:465
+msgid "Home Slides"
+msgstr ""
+
+#: uni-cpt-and-tax.php:65 uni-cpt-and-tax.php:76 uni-cpt-and-tax.php:260
+#: uni-cpt-and-tax.php:271
+msgid "Events"
+msgstr ""
+
+#: uni-cpt-and-tax.php:66 uni-cpt-and-tax.php:261
+msgid "Event"
+msgstr ""
+
+#: uni-cpt-and-tax.php:67 uni-cpt-and-tax.php:262
+msgid "New Event"
+msgstr ""
+
+#: uni-cpt-and-tax.php:68 uni-cpt-and-tax.php:263
+msgid "Add New Event"
+msgstr ""
+
+#: uni-cpt-and-tax.php:69 uni-cpt-and-tax.php:264
+msgid "Edit Event"
+msgstr ""
+
+#: uni-cpt-and-tax.php:70 uni-cpt-and-tax.php:265
+msgid "All events"
+msgstr ""
+
+#: uni-cpt-and-tax.php:71 uni-cpt-and-tax.php:266
+msgid "View Event"
+msgstr ""
+
+#: uni-cpt-and-tax.php:72 uni-cpt-and-tax.php:267
+msgid "Search Events"
+msgstr ""
+
+#: uni-cpt-and-tax.php:73 uni-cpt-and-tax.php:268
+msgid "Events not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:74 uni-cpt-and-tax.php:269
+msgid "Events not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:98 uni-cpt-and-tax.php:109
+msgid "Values"
+msgstr ""
+
+#: uni-cpt-and-tax.php:99
+msgid "Value"
+msgstr ""
+
+#: uni-cpt-and-tax.php:100
+msgid "New value"
+msgstr ""
+
+#: uni-cpt-and-tax.php:101
+msgid "Add value"
+msgstr ""
+
+#: uni-cpt-and-tax.php:102
+msgid "Edit value"
+msgstr ""
+
+#: uni-cpt-and-tax.php:103
+msgid "All values"
+msgstr ""
+
+#: uni-cpt-and-tax.php:104
+msgid "View value"
+msgstr ""
+
+#: uni-cpt-and-tax.php:105
+msgid "Search values"
+msgstr ""
+
+#: uni-cpt-and-tax.php:106
+msgid "Values not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:107
+msgid "Values not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:132 uni-cpt-and-tax.php:143 uni-cpt-and-tax.php:293
+#: uni-cpt-and-tax.php:304 uni-cpt-and-tax.php:556 uni-cpt-and-tax.php:567
+msgid "Prices"
+msgstr ""
+
+#: uni-cpt-and-tax.php:133 uni-cpt-and-tax.php:204 uni-cpt-and-tax.php:294
+#: uni-cpt-and-tax.php:365 uni-cpt-and-tax.php:557
+msgid "Price"
+msgstr ""
+
+#: uni-cpt-and-tax.php:134 uni-cpt-and-tax.php:295 uni-cpt-and-tax.php:558
+msgid "New price"
+msgstr ""
+
+#: uni-cpt-and-tax.php:135 uni-cpt-and-tax.php:296 uni-cpt-and-tax.php:559
+msgid "Add price"
+msgstr ""
+
+#: uni-cpt-and-tax.php:136 uni-cpt-and-tax.php:297 uni-cpt-and-tax.php:560
+msgid "Edit price"
+msgstr ""
+
+#: uni-cpt-and-tax.php:137 uni-cpt-and-tax.php:298 uni-cpt-and-tax.php:561
+msgid "All prices"
+msgstr ""
+
+#: uni-cpt-and-tax.php:138 uni-cpt-and-tax.php:299 uni-cpt-and-tax.php:562
+msgid "View price"
+msgstr ""
+
+#: uni-cpt-and-tax.php:139 uni-cpt-and-tax.php:300 uni-cpt-and-tax.php:563
+msgid "Search prices"
+msgstr ""
+
+#: uni-cpt-and-tax.php:140 uni-cpt-and-tax.php:301 uni-cpt-and-tax.php:564
+msgid "Prices not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:141 uni-cpt-and-tax.php:302 uni-cpt-and-tax.php:565
+msgid "Prices not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:172 uni-cpt-and-tax.php:173
+msgid "Category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:174
+msgid "Search category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:175
+msgid "All categories"
+msgstr ""
+
+#: uni-cpt-and-tax.php:176
+msgid "Parent category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:177
+msgid "Parent category:"
+msgstr ""
+
+#: uni-cpt-and-tax.php:178
+msgid "Edit category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:179
+msgid "Update category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:180
+msgid "Add new category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:181
+msgid "New category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:182
+msgid "Categories"
+msgstr ""
+
+#: uni-cpt-and-tax.php:201 uni-cpt-and-tax.php:362
+msgid "Start date and time"
+msgstr ""
+
+#: uni-cpt-and-tax.php:202 uni-cpt-and-tax.php:363
+msgid "End date and time"
+msgstr ""
+
+#: uni-cpt-and-tax.php:203 uni-cpt-and-tax.php:364
+msgid "Address"
+msgstr ""
+
+#: uni-cpt-and-tax.php:216 uni-cpt-and-tax.php:223 uni-cpt-and-tax.php:229
+#: uni-cpt-and-tax.php:232 uni-cpt-and-tax.php:377 uni-cpt-and-tax.php:384
+#: uni-cpt-and-tax.php:390 uni-cpt-and-tax.php:393
+msgid "N/A"
+msgstr ""
+
+#: uni-cpt-and-tax.php:219 uni-cpt-and-tax.php:226 uni-cpt-and-tax.php:380
+#: uni-cpt-and-tax.php:387
+msgid "@"
+msgstr ""
+
+#: uni-cpt-and-tax.php:239 uni-cpt-and-tax.php:400
+msgid "Price value"
+msgstr ""
+
+#: uni-cpt-and-tax.php:333 uni-cpt-and-tax.php:334
+msgid "Event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:335
+msgid "Search event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:336
+msgid "All event categories"
+msgstr ""
+
+#: uni-cpt-and-tax.php:337
+msgid "Parent event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:338
+msgid "Parent event category:"
+msgstr ""
+
+#: uni-cpt-and-tax.php:339
+msgid "Edit event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:340
+msgid "Update event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:341
+msgid "Add new event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:342
+msgid "New event category"
+msgstr ""
+
+#: uni-cpt-and-tax.php:343
+msgid "Event categories"
+msgstr ""
+
+#: uni-cpt-and-tax.php:421 uni-cpt-and-tax.php:432
+msgid "Projects"
+msgstr ""
+
+#: uni-cpt-and-tax.php:422
+msgid "Project"
+msgstr ""
+
+#: uni-cpt-and-tax.php:423
+msgid "New Project"
+msgstr ""
+
+#: uni-cpt-and-tax.php:424
+msgid "Add New Project"
+msgstr ""
+
+#: uni-cpt-and-tax.php:425
+msgid "Edit Project"
+msgstr ""
+
+#: uni-cpt-and-tax.php:426
+msgid "All Projects"
+msgstr ""
+
+#: uni-cpt-and-tax.php:427
+msgid "View Project"
+msgstr ""
+
+#: uni-cpt-and-tax.php:428
+msgid "Search Projects"
+msgstr ""
+
+#: uni-cpt-and-tax.php:429
+msgid "Projects not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:430
+msgid "Projects not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:488 uni-cpt-and-tax.php:499
+msgid "Testimonial"
+msgstr ""
+
+#: uni-cpt-and-tax.php:489
+msgid "Testimonials"
+msgstr ""
+
+#: uni-cpt-and-tax.php:490
+msgid "New testimonial"
+msgstr ""
+
+#: uni-cpt-and-tax.php:491
+msgid "Add testimonial"
+msgstr ""
+
+#: uni-cpt-and-tax.php:492
+msgid "Edit testimonial"
+msgstr ""
+
+#: uni-cpt-and-tax.php:493
+msgid "All testimonials"
+msgstr ""
+
+#: uni-cpt-and-tax.php:494
+msgid "View testimonial"
+msgstr ""
+
+#: uni-cpt-and-tax.php:495
+msgid "Search testimonials"
+msgstr ""
+
+#: uni-cpt-and-tax.php:496
+msgid "Testimonials not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:497
+msgid "Testimonials not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:522 uni-cpt-and-tax.php:533
+msgid "Brands"
+msgstr ""
+
+#: uni-cpt-and-tax.php:523
+msgid "Brand"
+msgstr ""
+
+#: uni-cpt-and-tax.php:524
+msgid "New brand"
+msgstr ""
+
+#: uni-cpt-and-tax.php:525
+msgid "Add brand"
+msgstr ""
+
+#: uni-cpt-and-tax.php:526
+msgid "Edit brand"
+msgstr ""
+
+#: uni-cpt-and-tax.php:527
+msgid "All brands"
+msgstr ""
+
+#: uni-cpt-and-tax.php:528
+msgid "View brand"
+msgstr ""
+
+#: uni-cpt-and-tax.php:529
+msgid "Search brands"
+msgstr ""
+
+#: uni-cpt-and-tax.php:530
+msgid "Brands not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:531
+msgid "Brands not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:590 uni-cpt-and-tax.php:591 uni-cpt-and-tax.php:601
+msgid "Services"
+msgstr ""
+
+#: uni-cpt-and-tax.php:592
+msgid "New service"
+msgstr ""
+
+#: uni-cpt-and-tax.php:593
+msgid "Add service"
+msgstr ""
+
+#: uni-cpt-and-tax.php:594
+msgid "Edit service"
+msgstr ""
+
+#: uni-cpt-and-tax.php:595
+msgid "All services"
+msgstr ""
+
+#: uni-cpt-and-tax.php:596
+msgid "View service"
+msgstr ""
+
+#: uni-cpt-and-tax.php:597
+msgid "Search services"
+msgstr ""
+
+#: uni-cpt-and-tax.php:598
+msgid "Services not found"
+msgstr ""
+
+#: uni-cpt-and-tax.php:599
+msgid "Services not found in cart"
+msgstr ""
+
+#: uni-cpt-and-tax.php:630 uni-cpt-and-tax.php:631
+msgid "Type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:632
+msgid "Search type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:633
+msgid "All types"
+msgstr ""
+
+#: uni-cpt-and-tax.php:634
+msgid "Parent type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:635
+msgid "Parent type:"
+msgstr ""
+
+#: uni-cpt-and-tax.php:636
+msgid "Edit type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:637
+msgid "Update type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:638
+msgid "Add new type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:639
+msgid "New type"
+msgstr ""
+
+#: uni-cpt-and-tax.php:640
+msgid "Types"
+msgstr ""
+
+#: uni-cpt-and-tax.php:654 uni-cpt-and-tax.php:655
+msgid "Location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:656
+msgid "Search location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:657
+msgid "All locations"
+msgstr ""
+
+#: uni-cpt-and-tax.php:658
+msgid "Parent location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:659
+msgid "Parent location:"
+msgstr ""
+
+#: uni-cpt-and-tax.php:660
+msgid "Edit location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:661
+msgid "Update location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:662
+msgid "Add new location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:663
+msgid "New location"
+msgstr ""
+
+#: uni-cpt-and-tax.php:664
+msgid "Locations"
+msgstr ""
+
+#: uni-cpt-and-tax.php:678 uni-cpt-and-tax.php:679
+msgid "Status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:680
+msgid "Search status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:681
+msgid "All statuses"
+msgstr ""
+
+#: uni-cpt-and-tax.php:682
+msgid "Parent status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:683
+msgid "Parent status:"
+msgstr ""
+
+#: uni-cpt-and-tax.php:684
+msgid "Edit status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:685
+msgid "Update status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:686
+msgid "Add new status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:687
+msgid "New status"
+msgstr ""
+
+#: uni-cpt-and-tax.php:688
+msgid "Statuses"
+msgstr ""
+
+#: uni-cpt-and-tax.php:702 uni-cpt-and-tax.php:703
+msgid "Year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:704
+msgid "Search year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:705
+msgid "All years"
+msgstr ""
+
+#: uni-cpt-and-tax.php:706
+msgid "Parent year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:707
+msgid "Parent year:"
+msgstr ""
+
+#: uni-cpt-and-tax.php:708
+msgid "Edit year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:709
+msgid "Update year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:710
+msgid "Add new year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:711
+msgid "New year"
+msgstr ""
+
+#: uni-cpt-and-tax.php:712
+msgid "Years"
+msgstr ""
