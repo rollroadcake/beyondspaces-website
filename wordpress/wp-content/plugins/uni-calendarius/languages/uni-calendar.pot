@@ -1,0 +1,1588 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MooMoo Web Studio
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Calendarius 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-02 12:39+0700\n"
+"PO-Revision-Date: 2016-12-02 12:39+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: uni-calendarius.php:405 uni-calendarius.php:528
+msgid "with"
+msgstr ""
+
+#: uni-calendarius.php:406 uni-calendarius.php:530
+msgid "All"
+msgstr ""
+
+#: uni-calendarius.php:529
+msgid "Choose image"
+msgstr ""
+
+#: uni-calendarius.php:536 uni-calendarius.php:545
+msgid "This value seems to be invalid."
+msgstr ""
+
+#: uni-calendarius.php:537
+msgid "This value should be a valid email."
+msgstr ""
+
+#: uni-calendarius.php:538
+msgid "This value should be a valid url."
+msgstr ""
+
+#: uni-calendarius.php:539
+msgid "This value should be a valid number."
+msgstr ""
+
+#: uni-calendarius.php:540
+msgid "This value should be digits."
+msgstr ""
+
+#: uni-calendarius.php:541
+msgid "This value should be alphanumeric."
+msgstr ""
+
+#: uni-calendarius.php:542
+msgid "This value should be a valid integer."
+msgstr ""
+
+#: uni-calendarius.php:543
+msgid "This value should not be blank."
+msgstr ""
+
+#: uni-calendarius.php:544
+msgid "This value is required."
+msgstr ""
+
+#: uni-calendarius.php:546
+#, php-format
+msgid "This value should be greater than or equal to %s."
+msgstr ""
+
+#: uni-calendarius.php:547
+#, php-format
+msgid "This value should be lower than or equal to %s."
+msgstr ""
+
+#: uni-calendarius.php:548
+#, php-format
+msgid "This value should be between %s and %s."
+msgstr ""
+
+#: uni-calendarius.php:549
+#, php-format
+msgid "This value is too short. It should have %s characters or more."
+msgstr ""
+
+#: uni-calendarius.php:550
+#, php-format
+msgid "This value is too long. It should have %s characters or fewer."
+msgstr ""
+
+#: uni-calendarius.php:551
+#, php-format
+msgid ""
+"This value length is invalid. It should be between %s and %s characters long."
+msgstr ""
+
+#: uni-calendarius.php:552
+#, php-format
+msgid "You must select at least %s choices."
+msgstr ""
+
+#: uni-calendarius.php:553
+#, php-format
+msgid "You must select %s choices or fewer."
+msgstr ""
+
+#: uni-calendarius.php:554
+#, php-format
+msgid "You must select between %s and %s choices."
+msgstr ""
+
+#: uni-calendarius.php:555
+msgid "This value should be the same."
+msgstr ""
+
+#: uni-calendarius.php:556
+msgid "This value should be a valid date (YYYY-MM-DD)."
+msgstr ""
+
+#: uni-calendarius.php:557
+#, php-format
+msgid "This value is too short. It should have %s words or more."
+msgstr ""
+
+#: uni-calendarius.php:558
+#, php-format
+msgid "This value is too long. It should have %s words or fewer."
+msgstr ""
+
+#: uni-calendarius.php:559
+#, php-format
+msgid ""
+"This value length is invalid. It should be between %s and %s words long."
+msgstr ""
+
+#: uni-calendarius.php:560
+msgid "This value should be greater."
+msgstr ""
+
+#: uni-calendarius.php:561
+msgid "This value should be greater or equal."
+msgstr ""
+
+#: uni-calendarius.php:562
+msgid "This value should be less."
+msgstr ""
+
+#: uni-calendarius.php:563
+msgid "This value should be less or equal."
+msgstr ""
+
+#: uni-calendarius.php:564
+msgid "This value should be different."
+msgstr ""
+
+#: uni-calendarius.php:594
+msgid "Flat Cyan"
+msgstr ""
+
+#: uni-calendarius.php:599
+msgid "Flat Light Sea Green"
+msgstr ""
+
+#: uni-calendarius.php:604
+msgid "Flat Aquamarine"
+msgstr ""
+
+#: uni-calendarius.php:609
+msgid "Flat Goldenrod"
+msgstr ""
+
+#: uni-calendarius.php:614
+msgid "Flat Tan"
+msgstr ""
+
+#: uni-calendarius.php:619
+msgid "Flat Cornflower Blue"
+msgstr ""
+
+#: uni-calendarius.php:624
+msgid "Flat Tomato"
+msgstr ""
+
+#: uni-calendarius.php:629
+msgid "Flat Medium Orchid"
+msgstr ""
+
+#: uni-calendarius.php:682 uni-calendarius.php:684
+msgid "Disabled"
+msgstr ""
+
+#: uni-calendarius.php:686
+msgid "Enabled"
+msgstr ""
+
+#: uni-calendarius.php:709
+msgid "Built-in posts-events"
+msgstr ""
+
+#: uni-calendarius.php:712
+msgid "Google Calendar events"
+msgstr ""
+
+#: uni-calendarius.php:715
+msgid "MindBodyOnline.com classes"
+msgstr ""
+
+#: uni-calendarius.php:718
+msgid "Cobot.me bookings"
+msgstr ""
+
+#: uni-calendarius.php:721
+msgid "Tickera events"
+msgstr ""
+
+#: uni-calendarius.php:752 uni-calendarius.php:790
+msgid "Calendarius additional fields"
+msgstr ""
+
+#: uni-calendarius.php:754 uni-calendarius.php:794 uni-calendarius.php:821
+#: includes/uni-ec-admin-functions.php:997
+#: includes/uni-ec-admin-functions.php:1160
+msgid "Background colour"
+msgstr ""
+
+#: uni-calendarius.php:756 uni-calendarius.php:797
+msgid "Background colour for events in this category (optional)"
+msgstr ""
+
+#: uni-calendarius.php:759 uni-calendarius.php:801 uni-calendarius.php:822
+#: includes/uni-ec-admin-functions.php:1001
+#: includes/uni-ec-admin-functions.php:1164
+msgid "Border colour"
+msgstr ""
+
+#: uni-calendarius.php:761 uni-calendarius.php:804
+msgid "Border colour for events in this category (optional)."
+msgstr ""
+
+#: uni-calendarius.php:764 uni-calendarius.php:808 uni-calendarius.php:823
+#: includes/uni-ec-admin-functions.php:1005
+#: includes/uni-ec-admin-functions.php:1168
+msgid "Text colour"
+msgstr ""
+
+#: uni-calendarius.php:766
+msgid ""
+"Text colour for events in this category (optional). Default is \"black\"."
+msgstr ""
+
+#: uni-calendarius.php:811
+msgid "Text colour for events in this category (optional)."
+msgstr ""
+
+#: uni-calendarius.php:877
+msgid "Settings"
+msgstr ""
+
+#: uni-calendarius.php:888
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-cobot-api.php:358 includes/class-uni-ec-ajax.php:142
+#: includes/class-uni-ec-ajax.php:182 includes/class-uni-ec-ajax.php:249
+#: includes/class-uni-ec-ajax.php:301 includes/class-uni-ec-ajax.php:343
+#: includes/class-uni-ec-ajax.php:1960
+msgid "Error!"
+msgstr ""
+
+#: includes/class-mb-api.php:92
+msgid "called unknown method "
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:140 includes/class-uni-ec-ajax.php:177
+#: includes/class-uni-ec-ajax.php:908 includes/class-uni-ec-ajax.php:1094
+#: includes/class-uni-ec-ajax.php:1104 includes/class-uni-ec-ajax.php:1193
+#: includes/class-uni-ec-ajax.php:1204 includes/class-uni-ec-ajax.php:1299
+#: includes/class-uni-ec-ajax.php:1487 includes/class-uni-ec-ajax.php:1694
+#: includes/class-uni-ec-ajax.php:1704 includes/class-uni-ec-ajax.php:1821
+#: includes/class-uni-ec-ajax.php:1832 includes/class-uni-ec-ajax.php:1936
+msgid "Success!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:146
+msgid "Calendar ID is not specified!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:186
+msgid "You have to define a title!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:245
+msgid "Changes are saved!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:253
+msgid "You have to define a title and choose a type of the calendar!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:305 includes/class-uni-ec-ajax.php:347
+msgid "The related API class has not been found"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:483
+msgid "Error: event has not been created!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:487 includes/class-uni-ec-ajax.php:643
+msgid "You must add a title!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:625
+msgid "Error: event has not been copied!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:639
+msgid "Error: event has not been updated!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:676
+msgid "Error: the event has not been deleted!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:680
+msgid "Event ID is not defined"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:747
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:751
+msgid "Not enough data to make this operation."
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:912 includes/class-uni-ec-ajax.php:1303
+#: includes/class-uni-ec-ajax.php:1493 includes/class-uni-ec-ajax.php:1940
+msgid "No events in this period"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:1199 includes/class-uni-ec-ajax.php:1827
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/class-uni-ec-ajax.php:1311 includes/class-uni-ec-ajax.php:1948
+msgid "Not enough data"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:29
+msgid "Calendar"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:30
+msgid "Calendars"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:31
+msgid "New Calendar"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:32
+#: includes/uni-ec-admin-functions.php:161
+msgid "Add New Calendar"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:33
+msgid "Edit Calendar"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:34
+msgid "All calendars"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:35
+msgid "View Calendar"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:36
+msgid "Search calendars"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:37
+msgid "Calendars not found"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:38
+msgid "Calendars not found in cart"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:40
+msgid "CPT Uni Calendar"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:62
+msgid "Event"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:63
+msgid "Events"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:64
+msgid "New Event"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:65
+msgid "Add New Event"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:66
+msgid "Edit Event"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:67
+msgid "All events"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:68
+msgid "View Event"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:69
+msgid "Search events"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:70
+msgid "Events not found"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:71
+msgid "Events not found in cart"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:73
+msgid "CPT Uni Calendar Event"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:95
+#: includes/class-uni-ec-post-types.php:96
+#: includes/uni-ec-admin-functions.php:926
+#: includes/uni-ec-admin-functions.php:1089
+msgid "Category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:97
+msgid "Search category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:98
+msgid "All categories"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:99
+msgid "Parent category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:100
+msgid "Parent category:"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:101
+msgid "Edit category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:102
+msgid "Update category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:103
+msgid "Add new category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:104
+msgid "New category"
+msgstr ""
+
+#: includes/class-uni-ec-post-types.php:105
+#: includes/uni-ec-admin-functions.php:31
+msgid "Event categories"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:7 includes/uni-ec-admin-functions.php:8
+#: includes/uni-ec-admin-functions.php:102
+msgid "Calendarius"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:20
+#: includes/uni-ec-admin-functions.php:21
+msgid "Manage calendars"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:30
+msgid "Calendarius event categories"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:40
+msgid "Calendarius plugin settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:41
+msgid "Plugin settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:134
+#: includes/uni-ec-admin-functions.php:136
+msgid "Edit"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:137
+msgid "View/Edit calendar's events"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:139
+#: includes/uni-ec-admin-functions.php:152
+#: includes/uni-ec-admin-functions.php:1190
+msgid "Delete"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:146
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:150
+#, php-format
+msgid ""
+"You are about to delete Calendar #%s. This operation cannot be undone. "
+"Please, confirm the deletion."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:151
+#: includes/uni-ec-admin-functions.php:171
+#: includes/uni-ec-admin-functions.php:1012
+msgid "Cancel"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:166
+#: includes/uni-ec-admin-functions.php:188
+msgid "Title of the calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:167
+#: includes/uni-ec-admin-functions.php:189
+msgid "Calendar title"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:172
+msgid "Add"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:182
+#, php-format
+msgid "Edit Calendar #%s settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:187
+msgid "Basic settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:191
+msgid "Choose type of the calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:202
+msgid "Theme of the calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:203
+msgid "Choose a theme for the calendar."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:218
+#: includes/uni-ec-admin-functions.php:361
+#: includes/uni-ec-admin-functions.php:420
+#: includes/uni-ec-admin-functions.php:549
+#: includes/uni-ec-admin-functions.php:676
+msgid "View settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:220
+#: includes/uni-ec-admin-functions.php:363
+#: includes/uni-ec-admin-functions.php:422
+#: includes/uni-ec-admin-functions.php:551
+#: includes/uni-ec-admin-functions.php:678
+msgid "View of the calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:221
+#: includes/uni-ec-admin-functions.php:364
+#: includes/uni-ec-admin-functions.php:423
+#: includes/uni-ec-admin-functions.php:552
+#: includes/uni-ec-admin-functions.php:679
+msgid ""
+"The calendar has a number of different \"views\", or ways of displaying days "
+"and events. Choose one of the predefined views or create your own. Default "
+"is \"Agenda Week\"."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:223
+#: includes/uni-ec-admin-functions.php:425
+#: includes/uni-ec-admin-functions.php:554
+#: includes/uni-ec-admin-functions.php:681
+msgid "Agenda Week"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:224
+#: includes/uni-ec-admin-functions.php:426
+#: includes/uni-ec-admin-functions.php:555
+#: includes/uni-ec-admin-functions.php:682
+msgid "Agenda Day"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:225
+#: includes/uni-ec-admin-functions.php:366
+#: includes/uni-ec-admin-functions.php:427
+#: includes/uni-ec-admin-functions.php:556
+#: includes/uni-ec-admin-functions.php:683
+msgid "Basic Week"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:226
+#: includes/uni-ec-admin-functions.php:367
+#: includes/uni-ec-admin-functions.php:428
+#: includes/uni-ec-admin-functions.php:557
+#: includes/uni-ec-admin-functions.php:684
+msgid "Basic Day"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:227
+#: includes/uni-ec-admin-functions.php:368
+#: includes/uni-ec-admin-functions.php:429
+#: includes/uni-ec-admin-functions.php:558
+#: includes/uni-ec-admin-functions.php:685
+msgid "Month"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:228
+#: includes/uni-ec-admin-functions.php:369
+#: includes/uni-ec-admin-functions.php:430
+#: includes/uni-ec-admin-functions.php:559
+#: includes/uni-ec-admin-functions.php:686
+msgid "List Day"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:229
+#: includes/uni-ec-admin-functions.php:370
+#: includes/uni-ec-admin-functions.php:431
+#: includes/uni-ec-admin-functions.php:560
+#: includes/uni-ec-admin-functions.php:687
+msgid "List Week"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:230
+#: includes/uni-ec-admin-functions.php:371
+#: includes/uni-ec-admin-functions.php:432
+#: includes/uni-ec-admin-functions.php:561
+#: includes/uni-ec-admin-functions.php:688
+msgid "List Month"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:231
+#: includes/uni-ec-admin-functions.php:372
+#: includes/uni-ec-admin-functions.php:433
+#: includes/uni-ec-admin-functions.php:562
+#: includes/uni-ec-admin-functions.php:689
+msgid "List Year"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:232
+#: includes/uni-ec-admin-functions.php:434
+#: includes/uni-ec-admin-functions.php:563
+#: includes/uni-ec-admin-functions.php:690
+msgid "Custom view & duration"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:236
+#: includes/uni-ec-admin-functions.php:438
+#: includes/uni-ec-admin-functions.php:567
+#: includes/uni-ec-admin-functions.php:694
+msgid "Type of view"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:237
+#: includes/uni-ec-admin-functions.php:439
+#: includes/uni-ec-admin-functions.php:568
+#: includes/uni-ec-admin-functions.php:695
+msgid "Default is \"agenda\"."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:239
+#: includes/uni-ec-admin-functions.php:441
+#: includes/uni-ec-admin-functions.php:570
+#: includes/uni-ec-admin-functions.php:697
+msgid "Agenda"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:240
+#: includes/uni-ec-admin-functions.php:442
+#: includes/uni-ec-admin-functions.php:571
+#: includes/uni-ec-admin-functions.php:698
+msgid "Basic"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:243
+#: includes/uni-ec-admin-functions.php:445
+#: includes/uni-ec-admin-functions.php:574
+#: includes/uni-ec-admin-functions.php:701
+msgid "Calendar period"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:244
+#: includes/uni-ec-admin-functions.php:446
+#: includes/uni-ec-admin-functions.php:575
+#: includes/uni-ec-admin-functions.php:702
+msgid "Specify the number of days; digits only; default is \"4\"."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:248
+#: includes/uni-ec-admin-functions.php:375
+#: includes/uni-ec-admin-functions.php:450
+#: includes/uni-ec-admin-functions.php:579
+#: includes/uni-ec-admin-functions.php:706
+msgid "Hide header?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:249
+#: includes/uni-ec-admin-functions.php:376
+#: includes/uni-ec-admin-functions.php:451
+#: includes/uni-ec-admin-functions.php:580
+#: includes/uni-ec-admin-functions.php:707
+msgid ""
+"It is possible to hide a header of this timetable, including the title (date "
+"in specific format) and navigation arrows. It won't be posible to navigate "
+"next/prev periods. Convenient if you would like to create a static timetable "
+"like calendar with no dates, but just days of the week."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:253
+#: includes/uni-ec-admin-functions.php:380
+#: includes/uni-ec-admin-functions.php:455
+#: includes/uni-ec-admin-functions.php:584
+#: includes/uni-ec-admin-functions.php:711
+msgid "Title format"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:254
+#: includes/uni-ec-admin-functions.php:381
+#: includes/uni-ec-admin-functions.php:456
+#: includes/uni-ec-admin-functions.php:585
+#: includes/uni-ec-admin-functions.php:712
+msgid ""
+"Determines the text that will be displayed in the header's title. It is a "
+"date in a specific format (based on moment.js formats). Leave blank to use "
+"default value."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:257
+#: includes/uni-ec-admin-functions.php:384
+#: includes/uni-ec-admin-functions.php:459
+#: includes/uni-ec-admin-functions.php:588
+#: includes/uni-ec-admin-functions.php:715
+msgid "Column format"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:258
+#: includes/uni-ec-admin-functions.php:385
+#: includes/uni-ec-admin-functions.php:460
+#: includes/uni-ec-admin-functions.php:589
+#: includes/uni-ec-admin-functions.php:716
+msgid ""
+"Determines the text that will be displayed on the calendar's column "
+"headings. It is a date in a specific format (based on moment.js formats). "
+"Leave blank to use default value."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:261
+#: includes/uni-ec-admin-functions.php:388
+#: includes/uni-ec-admin-functions.php:463
+#: includes/uni-ec-admin-functions.php:592
+#: includes/uni-ec-admin-functions.php:719
+msgid "Slot label format"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:262
+#: includes/uni-ec-admin-functions.php:389
+#: includes/uni-ec-admin-functions.php:464
+#: includes/uni-ec-admin-functions.php:593
+#: includes/uni-ec-admin-functions.php:720
+msgid ""
+"Determines the time-text that will be displayed on the vertical axis of the "
+"agenda views and on each event. It is a time in a specific format (based on "
+"moment.js formats). Leave blank to use default value (\"h:mm a\")."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:265
+#: includes/uni-ec-admin-functions.php:467
+#: includes/uni-ec-admin-functions.php:596
+#: includes/uni-ec-admin-functions.php:723
+msgid "Starting date"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:266
+#: includes/uni-ec-admin-functions.php:468
+#: includes/uni-ec-admin-functions.php:597
+#: includes/uni-ec-admin-functions.php:724
+msgid ""
+"Define starting date. It is \"today\" by default. Leave it blank if you want "
+"it to be every day \"today\"\n"
+"                    (so the calendar will display day/week/month of current "
+"date) or specify a date. In case of specific date the calendar\n"
+"                    will always show this day (for \"agendaDay\" and "
+"\"basicDay\" views) or the week of this specific date (for \"agendaWeek\"\n"
+"                    and \"basicWeek\" views) or the month of this specific "
+"date (for \"month\" view)."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:272
+#: includes/uni-ec-admin-functions.php:392
+#: includes/uni-ec-admin-functions.php:474
+#: includes/uni-ec-admin-functions.php:603
+#: includes/uni-ec-admin-functions.php:730
+msgid "First day of the week"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:273
+#: includes/uni-ec-admin-functions.php:393
+#: includes/uni-ec-admin-functions.php:475
+#: includes/uni-ec-admin-functions.php:604
+#: includes/uni-ec-admin-functions.php:731
+msgid ""
+"The day that each week begins. The default value depends on the current "
+"language."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:275
+#: includes/uni-ec-admin-functions.php:395
+#: includes/uni-ec-admin-functions.php:477
+#: includes/uni-ec-admin-functions.php:606
+#: includes/uni-ec-admin-functions.php:733
+msgid "Not chosen (default values is used)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:276
+#: includes/uni-ec-admin-functions.php:396
+#: includes/uni-ec-admin-functions.php:478
+#: includes/uni-ec-admin-functions.php:607
+#: includes/uni-ec-admin-functions.php:734
+#: includes/uni-ec-admin-functions.php:1366
+msgid "Sunday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:277
+#: includes/uni-ec-admin-functions.php:397
+#: includes/uni-ec-admin-functions.php:479
+#: includes/uni-ec-admin-functions.php:608
+#: includes/uni-ec-admin-functions.php:735
+#: includes/uni-ec-admin-functions.php:1360
+msgid "Monday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:278
+#: includes/uni-ec-admin-functions.php:398
+#: includes/uni-ec-admin-functions.php:480
+#: includes/uni-ec-admin-functions.php:609
+#: includes/uni-ec-admin-functions.php:736
+#: includes/uni-ec-admin-functions.php:1361
+msgid "Tuesday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:279
+#: includes/uni-ec-admin-functions.php:399
+#: includes/uni-ec-admin-functions.php:481
+#: includes/uni-ec-admin-functions.php:610
+#: includes/uni-ec-admin-functions.php:737
+#: includes/uni-ec-admin-functions.php:1362
+msgid "Wednesday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:280
+#: includes/uni-ec-admin-functions.php:400
+#: includes/uni-ec-admin-functions.php:482
+#: includes/uni-ec-admin-functions.php:611
+#: includes/uni-ec-admin-functions.php:738
+#: includes/uni-ec-admin-functions.php:1363
+msgid "Thursday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:281
+#: includes/uni-ec-admin-functions.php:401
+#: includes/uni-ec-admin-functions.php:483
+#: includes/uni-ec-admin-functions.php:612
+#: includes/uni-ec-admin-functions.php:739
+#: includes/uni-ec-admin-functions.php:1364
+msgid "Friday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:282
+#: includes/uni-ec-admin-functions.php:402
+#: includes/uni-ec-admin-functions.php:484
+#: includes/uni-ec-admin-functions.php:613
+#: includes/uni-ec-admin-functions.php:740
+#: includes/uni-ec-admin-functions.php:1365
+msgid "Saturday"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:285
+#: includes/uni-ec-admin-functions.php:487
+#: includes/uni-ec-admin-functions.php:616
+#: includes/uni-ec-admin-functions.php:743
+msgid "Slot duration (minutes)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:286
+#: includes/uni-ec-admin-functions.php:488
+#: includes/uni-ec-admin-functions.php:617
+#: includes/uni-ec-admin-functions.php:744
+msgid ""
+"The frequency for displaying time slots. This setting is for \"agenda\" type "
+"calendar views. Default value is \"00\" and it is equal to 60 min. slot "
+"duration."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:289
+#: includes/uni-ec-admin-functions.php:491
+#: includes/uni-ec-admin-functions.php:620
+#: includes/uni-ec-admin-functions.php:747
+msgid "Min. start time (hour)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:290
+#: includes/uni-ec-admin-functions.php:492
+#: includes/uni-ec-admin-functions.php:621
+#: includes/uni-ec-admin-functions.php:748
+msgid ""
+"Each day in the calendar will de shown starting from this time. This setting "
+"is for \"agenda\" type calendar views."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:293
+#: includes/uni-ec-admin-functions.php:495
+#: includes/uni-ec-admin-functions.php:624
+#: includes/uni-ec-admin-functions.php:751
+msgid "Max. end time (hour)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:294
+#: includes/uni-ec-admin-functions.php:496
+#: includes/uni-ec-admin-functions.php:625
+#: includes/uni-ec-admin-functions.php:752
+msgid ""
+"Each day in the calendar will de shown ending by this time. This setting is "
+"for \"agenda\" type calendar views."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:297
+#: includes/uni-ec-admin-functions.php:628
+#: includes/uni-ec-admin-functions.php:755
+#: includes/uni-ec-admin-functions.php:923
+msgid "Additional settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:299
+msgid "Disable events autotransfer?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:300
+msgid ""
+"This setting overrides the same global setting for this calendar only. It "
+"means that autotransfer functionality can be enabled globally, but "
+"optionally disabled on per calendar basis."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:304
+#: includes/uni-ec-admin-functions.php:630
+#: includes/uni-ec-admin-functions.php:757
+msgid "Enable displaying of event categories filter?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:305
+#: includes/uni-ec-admin-functions.php:631
+#: includes/uni-ec-admin-functions.php:758
+msgid ""
+"It is possible to enable/disable displaying of event categories filter just "
+"above the calendar."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:309
+#: includes/uni-ec-admin-functions.php:635
+#: includes/uni-ec-admin-functions.php:762
+msgid "Enable displaying of the legend?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:310
+#: includes/uni-ec-admin-functions.php:636
+#: includes/uni-ec-admin-functions.php:763
+msgid "It is possible to enable/disable displaying of the legend."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:315
+#: includes/uni-ec-admin-functions.php:641
+#: includes/uni-ec-admin-functions.php:768
+msgid "The position of the legend"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:317
+#: includes/uni-ec-admin-functions.php:643
+#: includes/uni-ec-admin-functions.php:770
+msgid "Below the calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:318
+#: includes/uni-ec-admin-functions.php:644
+#: includes/uni-ec-admin-functions.php:771
+msgid "Above the calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:322
+#: includes/uni-ec-admin-functions.php:648
+#: includes/uni-ec-admin-functions.php:775
+msgid "Categories for the filter/legend"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:323
+#: includes/uni-ec-admin-functions.php:649
+#: includes/uni-ec-admin-functions.php:776
+msgid ""
+"Choose categories of events to be used for the filter and/or legend or leave "
+"all unchecked to use all of them."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:330
+#: includes/uni-ec-admin-functions.php:656
+#: includes/uni-ec-admin-functions.php:783
+msgid "No categories created yet."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:333
+msgid "User roles"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:334
+msgid ""
+"It is possible to connect users of the selected roles to the calendar "
+"events. The name(s) of the connected user(s) will be displayed in the modal "
+"window."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:342
+msgid "Display names of the connected user(s)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:343
+msgid ""
+"Check this checkbox if you want to additionally display names of the "
+"connected user(s) in an event item in the calendar grid."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:345
+#: includes/uni-ec-admin-functions.php:789
+msgid "Display"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:351
+msgid "Settings for a calendar integrated with Google Calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:353
+msgid "Google Calendar API Key"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:354
+#, php-format
+msgid "You have to create an app in %s and obtain API key."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:357
+msgid "ID of Google Calendar"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:358
+msgid "This Google Calendar must be public"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:409
+msgid "Settings for a calendar integrated with MindBodyOnline.com"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:411
+msgid "Studio ID"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:414
+msgid "Source Name"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:417
+msgid "Password (Key)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:499
+#: includes/uni-ec-admin-functions.php:659
+msgid "Cache settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:501
+#: includes/uni-ec-admin-functions.php:661
+msgid "Enable cache of API requests"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:502
+msgid ""
+"Check this checkbox if you want to enable caching of the results of request "
+"to MindBody API."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:504
+#: includes/uni-ec-admin-functions.php:664
+msgid "Enable cache"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:507
+#: includes/uni-ec-admin-functions.php:667
+msgid ""
+"Time until cache expiration in seconds from now. Default 6 hours will be "
+"applied if no value is provided."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:508
+#: includes/uni-ec-admin-functions.php:668
+msgid "Time until expiration (sec)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:516
+msgid "Settings for a calendar integrated with Cobot.me"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:518
+msgid "Client ID"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:521
+msgid "Client Secret"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:524
+msgid "User email"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:525
+msgid "This should be an email of one of the admins of created space."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:528
+msgid "User Password"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:529
+msgid ""
+"This should be a password of one of the admin users whose email address is "
+"added in previous field."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:533
+msgid "Get Cobot.me Access Token"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:535
+msgid "The access token has been received successfully!"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:536
+msgid "Revoke Access Token"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:539
+msgid "Subdomain of the chosen space on Cobot.me"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:543
+msgid "Get an info about the space and save it to the DB"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:545
+msgid ""
+"The info about the space includes general information, plans and resources. "
+"It is saved in the DB. Delete and fetch it again in case you change smth of "
+"these in your Cobot account."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:546
+msgid "Delete the info about the space"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:662
+msgid ""
+"Check this checkbox if you want to enable caching of the results of request "
+"to Cobot.me API."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:786
+msgid "Display locations of the events"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:787
+msgid ""
+"Check this checkbox if you want to additionally display locations in an "
+"event item in the calendar grid."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:794
+#: includes/uni-ec-admin-functions.php:1191
+msgid "Cancel/Close"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:795
+#: includes/uni-ec-admin-functions.php:1192
+msgid "Save changes"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:805
+#, php-format
+msgid "All events of Calendar \"%s\""
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:809
+#: includes/uni-ec-admin-functions.php:820
+msgid "Back to all calendars"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:811
+#: includes/uni-ec-admin-functions.php:830
+msgid "Add event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:846
+#: includes/uni-ec-admin-functions.php:1045
+#: includes/uni-ec-admin-functions.php:1330
+msgid "General settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:848
+#: includes/uni-ec-admin-functions.php:1047
+msgid "Title"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:849
+#: includes/uni-ec-admin-functions.php:1048
+msgid "Event title"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:851
+#: includes/uni-ec-admin-functions.php:1050
+msgid "Description"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:852
+#: includes/uni-ec-admin-functions.php:1051
+#, php-format
+msgid ""
+"Allowed HTML tags are: %1$s. Your text will be auto wrapped with %2$s tag. "
+"%3$s tag will be added in place of each line break. Pieces of the text "
+"divided by an empty line will be wrapped with %2$s tag."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:853
+#: includes/uni-ec-admin-functions.php:1052
+msgid "Event description"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:856
+msgid "Event date"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:861
+#: includes/uni-ec-admin-functions.php:1055
+msgid "All day event?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:862
+#: includes/uni-ec-admin-functions.php:1056
+msgid "Only all day events can be two or more days long."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:864
+#: includes/uni-ec-admin-functions.php:882
+#: includes/uni-ec-admin-functions.php:1058
+msgid "No"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:865
+#: includes/uni-ec-admin-functions.php:883
+#: includes/uni-ec-admin-functions.php:1059
+msgid "Yes"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:869
+#: includes/uni-ec-admin-functions.php:1063
+msgid "Only non all day events have start and end time."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:871
+#: includes/uni-ec-admin-functions.php:1066
+#: includes/uni-ec-admin-functions.php:1069
+msgid "Start time of the event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:874
+#: includes/uni-ec-admin-functions.php:1074
+#: includes/uni-ec-admin-functions.php:1077
+msgid "End time of the event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:879
+msgid "Recurring event?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:880
+msgid ""
+"It is possible to create several identical events within the chosen range of "
+"dates at once."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:887
+msgid "Type of recurring"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:889
+msgid "Daily"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:890
+msgid "Custom"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:916
+msgid "Recurring from"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:919
+msgid "until"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:928
+#: includes/uni-ec-admin-functions.php:1091
+msgid "No Category"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:935
+#: includes/uni-ec-admin-functions.php:1098
+msgid "Users connected"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:942
+#: includes/uni-ec-admin-functions.php:1105
+msgid "No user roles are selected in the Calendar settings."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:949
+#: includes/uni-ec-admin-functions.php:1112
+msgid "Click behavior settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:951
+#: includes/uni-ec-admin-functions.php:1114
+msgid ""
+"The modal window with the event content will be shown on click by default. "
+"However, it is possible to change this default behavior."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:953
+#: includes/uni-ec-admin-functions.php:1116
+msgid "Behavior"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:955
+#: includes/uni-ec-admin-functions.php:1118
+msgid "Open modal window (default)"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:956
+#: includes/uni-ec-admin-functions.php:1119
+msgid "Redirect to custom URI"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:957
+#: includes/uni-ec-admin-functions.php:1120
+msgid "Open modal window with a custom link"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:964
+#: includes/uni-ec-admin-functions.php:1127
+msgid "Define custom URI"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:965
+#: includes/uni-ec-admin-functions.php:1128
+msgid ""
+"The user will be redirected to this URI instead of openning the modal window "
+"on the click."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:970
+#: includes/uni-ec-admin-functions.php:1133
+msgid "URI for the link"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:973
+#: includes/uni-ec-admin-functions.php:1136
+msgid "Text for the link"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:988
+#: includes/uni-ec-admin-functions.php:1151
+msgid "Visual appearance"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:991
+#: includes/uni-ec-admin-functions.php:1154
+msgid "Background image"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:992
+#: includes/uni-ec-admin-functions.php:1155
+msgid ""
+"Add/upload an image via WP media uploader. This setting holds an ID of a "
+"media attachment. Empty the field if no image is needed."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:993
+#: includes/uni-ec-admin-functions.php:1156
+msgid "Add/Upload image"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:998
+#: includes/uni-ec-admin-functions.php:1161
+msgid "Sets background colour for the event individually."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1002
+#: includes/uni-ec-admin-functions.php:1165
+msgid "Sets border colour for the event individually."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1006
+#: includes/uni-ec-admin-functions.php:1169
+msgid "Sets text colour for the event individually."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1013
+msgid "Create an event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1024
+msgid "Edit event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1176
+msgid "Copying"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1178
+msgid "Make a copy"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1179
+msgid ""
+"Check this checkbox only if you want to create a copy of the event. Changes "
+"are made in fields above still will be saved, copy of the event will created "
+"then."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1181
+msgid "Create a copy of this event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1183
+msgid "Date and time of a new event"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1184
+msgid "Each day in the calendar will de shown starting from this time."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1214 includes/uni-ec-functions.php:145
+msgid "Active"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1221 includes/uni-ec-functions.php:152
+msgid "Cancelled"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1242
+#: includes/uni-ec-admin-functions.php:1272
+#: includes/uni-ec-admin-functions.php:1306 includes/uni-ec-functions.php:113
+#: includes/uni-ec-functions.php:173 includes/uni-ec-functions.php:212
+#: includes/uni-ec-functions.php:255
+msgid "Close"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1265 includes/uni-ec-functions.php:205
+msgid "No description."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1305 includes/uni-ec-functions.php:254
+msgid "The event page"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1324
+msgid "Calendarius Plugin Settings"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1335
+msgid "12/24 hours format"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1342
+msgid ""
+"All the time pickers in admin area will work in the chosen format as well as "
+"all the time outputs the formats of which are not set manually will also be "
+"shown in the format chosen in this setting."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1347
+msgid "Enable auto transfer of events?"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1351
+msgid ""
+"Check this option to enable auto transfer of events from current period to "
+"the next period. Auto transfering happens on per week basis."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1356
+msgid "Choose day of auto transfer"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1368
+msgid ""
+"All events of current week wil be transfered to the next week on this day. "
+"<strong>Important: disable auto transfer option first if you change the day "
+"and auto transfer was enabled. It ensures that the related wp-cron job will "
+"be executed as it should be.</strong>"
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1396
+#, php-format
+msgid ""
+"Events of the current week shold have already been transferred (Current week "
+"number is \"%s\")."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1399
+#, php-format
+msgid ""
+"Events of the current week have not been transferred yet (Current week "
+"number is \"%s\")."
+msgstr ""
+
+#: includes/uni-ec-admin-functions.php:1403
+#, php-format
+msgid "\"%s\" cron job is scheduled (or was executed) at %s (now is: %s)."
+msgstr ""
+
+#: includes/uni-ec-functions.php:69
+msgid "All day"
+msgstr ""
+
+#: includes/views/shortcodes/uni-ec-cobot-plans.php:44
+#, php-format
+msgid "%d month"
+msgid_plural "%d monthes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/views/shortcodes/uni-ec-cobot-plans.php:59
+msgid "See Plan Details & Sign Up"
+msgstr ""
+
+#: includes/views/shortcodes/uni-ec-cobot-resources.php:25
+msgid "hour"
+msgstr ""
+
+#: includes/views/shortcodes/uni-ec-cobot-resources.php:32
+msgid "Available Booking Times"
+msgstr ""

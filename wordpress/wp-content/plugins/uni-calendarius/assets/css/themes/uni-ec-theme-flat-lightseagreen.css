@@ -1,0 +1,408 @@
+/* .uni-ec-theme-flat-lightseagreen */
+
+/* shortcodes */
+/* [uni-ec-cobot-space] */
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen {background-color: #00D4D4;padding: 30px 45px;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen * {color: #ffffff;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen a {color: #ffffff;text-decoration:underline;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen a:hover {color: #ffffff;text-decoration:none;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen a.uni-ec-space-url {display: inline-block;padding: 20px;background-color: #333333;float: right;clear: left;
+margin: 0 0 30px 30px;text-decoration: none;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen a.uni-ec-space-url:hover {background-color: #fff;color: #333;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-space-description {}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-space-details {margin-top:25px;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-space-details span {font-weight: 300;font-style: italic;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-space-details span:after {content:'//';margin: 0 7px;}
+.uni-ec-cobot-space-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-space-details span:last-child:after {content:'';margin:0;}
+
+/* [uni-ec-cobot-plans] */
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper {background-color: #00D4D4;padding: 30px 45px;margin: 20px 0;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper * {color: #ffffff;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper a {color: #ffffff;text-decoration:underline;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper a:hover {color: #ffffff;text-decoration:none;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper a.uni-ec-plan-url
+{display: inline-block;padding: 20px;background-color: #333333;margin: 30px 0 0;text-decoration: none;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper a.uni-ec-plan-url:hover {background-color: #fff;color: #333;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-price-wrapper
+{width: 130px;height: 130px;background-color: #0FBCBC;border-radius: 100%;float: right;margin: 0 0 30px 30px;text-align: center;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-price-wrapper .uni-ec-plan-price
+{font-size: 1.9em;display: inline-block;margin-top: 40px;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-price-wrapper .uni-ec-plan-cycle {display:block;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-description {}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-details {margin-top:25px;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-details span {font-weight: 300;font-style: italic;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-details span:after {content:'//';margin: 0 7px;}
+.uni-ec-cobot-plans-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-plan-wrapper .uni-ec-plan-details span:last-child:after {content:'';margin:0;}
+
+/* [uni-ec-cobot-resources] */
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper {background-color: #00D4D4;padding: 30px 45px;margin: 20px 0;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper * {color: #ffffff;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper a {color: #ffffff;text-decoration:underline;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper a:hover {color: #ffffff;text-decoration:none;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper .uni-ec-resource-price-wrapper
+{width: 130px;height: 130px;background-color: #0FBCBC;border-radius: 100%;float: right;margin: 0 0 30px 30px;text-align: center;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper .uni-ec-resource-price-wrapper .uni-ec-resource-price
+{font-size: 24px;display: inline-block;margin-top: 40px;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper .uni-ec-resource-price-wrapper .uni-ec-resource-cycle
+{display:block;}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper .uni-ec-resource-description {}
+.uni-ec-cobot-resources-shortcode-wrapper.uni-ec-theme-flat-lightseagreen .uni-ec-cobot-resource-wrapper .uni-ec-resource-booking-times {margin: 20px 0;font-style: italic;}
+
+
+.uni-ec-main-wrapper .uni-ec-bar.uni-ec-theme-flat-lightseagreen {background-color:#20B2AA;}
+
+/* filter */
+.uni-ec-theme-flat-lightseagreen .uni-ec-calendar-filter-container {position:relative;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-filter-cats-list {position:relative;margin: 5px 0 25px 0;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-filter-cats-list li.uni-ec-filter-cat-li {display: inline-block;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-filter-cats-list li.uni-ec-filter-cat-li a.uni-ec-filter-cat-link {padding: 5px 12px;color: #1B9892;outline: 0;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-filter-cats-list li.uni-ec-filter-cat-li a.uni-ec-filter-cat-link:hover
+{text-decoration:none;color: #ffffff;background-color: #1B9892;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-filter-cats-list li.uni-ec-filter-cat-li a.uni-ec-filter-cat-link.uni-ec-active {color: #ffffff;background-color: #1B9892;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-filter-cats-list li.uni-ec-filter-cat-li a.uni-ec-filter-cat-link.uni-ec-active:hover {}
+
+/* legend */
+.uni-ec-theme-flat-lightseagreen .uni-ec-calendar-legend-container {position:relative;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-calendar-legend-container.legend-above .uni-ec-legend-cats-list {position:relative;margin: 5px 0 25px;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-calendar-legend-container.legend-below .uni-ec-legend-cats-list {position:relative;margin: 25px 0;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-legend-cats-list li.uni-ec-legend-cat-li {display: inline-block;margin-right:30px;vertical-align:top;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-legend-cats-list li.uni-ec-legend-cat-li span.uni-ec-legend-cat-dot
+{display: inline-block; width:14px; height: 14px; border-radius:7px;background-color:white;margin-right:10px;}
+.uni-ec-theme-flat-lightseagreen .uni-ec-legend-cats-list li.uni-ec-legend-cat-li span.uni-ec-legend-cat-title
+{display: inline-block; color: #222222;}
+
+/* Icons (inline elements with styled text that mock arrow icons)
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-icon {}
+.uni-ec-theme-flat-lightseagreen .fc-icon:after {}
+.uni-ec-theme-flat-lightseagreen .fc-icon-left-single-arrow:after {content: "\f104";font-weight:normal;font-size: 120%;font-family:FontAwesome;top: -7%;}
+.uni-ec-theme-flat-lightseagreen .fc-icon-right-single-arrow:after {content: "\f105";font-weight:normal;font-size: 120%;font-family:FontAwesome;top: -7%;}
+.uni-ec-theme-flat-lightseagreen .fc-icon-left-double-arrow:after {content: "\f100";
+	font-size: 160%;
+    font-family:FontAwesome;
+	top: -7%;}
+.uni-ec-theme-flat-lightseagreen .fc-icon-right-double-arrow:after {content: "\f101";
+	font-size: 160%;
+    font-family:FontAwesome;
+	top: -7%;}
+.uni-ec-theme-flat-lightseagreen .fc-icon-left-triangle:after {}
+.uni-ec-theme-flat-lightseagreen .fc-icon-right-triangle:after {}
+.uni-ec-theme-flat-lightseagreen .fc-icon-down-triangle:after {}
+.uni-ec-theme-flat-lightseagreen .fc-icon-x:after {}
+
+.uni-ec-theme-flat-lightseagreen .fc-divider, .fc-unthemed .fc-popover .fc-header {background-color:#20B2AA;}
+.uni-ec-theme-flat-lightseagreen .fc-popover .fc-header .fc-title {font-size:13px;color:#ffffff;line-height: 26px;}
+.uni-ec-theme-flat-lightseagreen .fc-popover .fc-header .fc-close {line-height: 18px;font-size: 14px;margin-top: 5px;color: #ffffff;}
+
+/* Buttons (styled <button> tags, normalized to work cross-browser)
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc button {}
+.uni-ec-theme-flat-lightseagreen .fc button::-moz-focus-inner { margin: 0; padding: 0; }
+.uni-ec-theme-flat-lightseagreen .fc-state-default {border-radius:0;padding:0;width: 50px;height: 50px;background-color:#20B2AA;}
+.uni-ec-theme-flat-lightseagreen .fc-state-default.fc-corner-left {}
+.uni-ec-theme-flat-lightseagreen .fc-state-default.fc-corner-right {}
+
+.uni-ec-theme-flat-lightseagreen .fc button .fc-icon {height: 30px;/*top: 5px;*/line-height: 33px;}
+.uni-ec-theme-flat-lightseagreen .fc button .fc-icon.fc-icon-right-single-arrow {left:1px;}
+.uni-ec-theme-flat-lightseagreen .fc-state-default {box-shadow:none;text-shadow:none;}
+.uni-ec-theme-flat-lightseagreen .fc-state-hover,
+.uni-ec-theme-flat-lightseagreen .fc-state-down,
+.uni-ec-theme-flat-lightseagreen .fc-state-active,
+.uni-ec-theme-flat-lightseagreen .fc-state-disabled {}
+.uni-ec-theme-flat-lightseagreen .fc-state-hover {}
+.uni-ec-theme-flat-lightseagreen .fc-state-down,
+.uni-ec-theme-flat-lightseagreen .fc-state-active {}
+.uni-ec-theme-flat-lightseagreen .fc-state-disabled {}
+
+/* Tables
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc table {}
+.uni-ec-theme-flat-lightseagreen .fc th {}
+.uni-ec-theme-flat-lightseagreen .fc th, .uni-ec-theme-flat-lightseagreen .uni-ec-theme-flat-lightseagreen .fc td {}
+.uni-ec-theme-flat-lightseagreen .fc td.fc-today {}
+
+.uni-ec-theme-flat-lightseagreen .fc-view .fc-head table .fc-widget-header {
+background: #20B2AA;color: #fff;padding: 10px 15px;font-size: 13px;border-color: #1B9892;}
+
+/* Fake Table Rows
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc .fc-row {}
+.uni-ec-theme-flat-lightseagreen .fc-row table {}
+.uni-ec-theme-flat-lightseagreen .fc-row:first-child table {}
+
+/* Day Row (used within the header and the DayGrid)
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-row {}
+.uni-ec-theme-flat-lightseagreen .fc-row .fc-bg {}
+
+/* Global Event Styles
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-event {color:#222;background-color:#20B2AA;border-color: #1B9892;}
+.uni-ec-theme-flat-lightseagreen .fc-event,
+.uni-ec-theme-flat-lightseagreen .fc-event:hover,
+.uni-ec-theme-flat-lightseagreen .ui-widget .fc-event {}
+.uni-ec-theme-flat-lightseagreen .fc-event[href],
+.uni-ec-theme-flat-lightseagreen .fc-event.fc-draggable {}
+.uni-ec-theme-flat-lightseagreen .fc-not-allowed, .uni-ec-theme-flat-lightseagreen  .fc-not-allowed .fc-event {}
+.uni-ec-theme-flat-lightseagreen .fc-event .fc-bg {opacity: 0;}
+.uni-ec-theme-flat-lightseagreen .fc-event .fc-content {}
+.uni-ec-theme-flat-lightseagreen .fc-event .fc-resizer {}
+.uni-ec-theme-flat-lightseagreen .fc-event.fc-allow-mouse-resize .fc-resizer,
+.uni-ec-theme-flat-lightseagreen .fc-event.fc-selected .fc-resizer {}
+.uni-ec-theme-flat-lightseagreen .fc-event.fc-selected .fc-resizer:before {}
+
+/* DayGrid events
+----------------------------------------------------------------------------------------------------
+We use the full "fc-day-grid-event" class instead of using descendants because the event won't
+be a descendant of the grid when it is being dragged.
+*/
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event {border-radius:0;cursor:pointer;margin:0;overflow:hidden;border:0;border-left-style:solid;border-left-width:4px;
+border-color:#20B2AA;color:#222!important;background:none !important;box-shadow:none;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event.uni-ec-all-day-event {background: repeating-linear-gradient(45deg,#F5FFFF,#F5FFFF 10px,#E5FFFF 10px,#E5FFFF 20px)!important;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event:hover {text-decoration:underline;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event.fc-selected:after {}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event .fc-content {padding-left:2px;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event .fc-content > * {margin-left:7px;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event .fc-content .fc-title {font-size:12px;line-height: 28px;font-weight:normal;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event .fc-content .fc-time {font-size:12px;font-weight:bold;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event:hover .fc-content .fc-title {text-decoration:underline;}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid-event:hover .fc-content .fc-time {text-decoration:underline;}
+/* resizer (cursor devices) */
+/* left resizer  */
+.uni-ec-theme-flat-lightseagreen .fc-ltr .fc-day-grid-event.fc-allow-mouse-resize .fc-start-resizer,
+.uni-ec-theme-flat-lightseagreen .fc-rtl .fc-day-grid-event.fc-allow-mouse-resize .fc-end-resizer {}
+/* right resizer */
+.uni-ec-theme-flat-lightseagreen .fc-ltr .fc-day-grid-event.fc-allow-mouse-resize .fc-end-resizer,
+.uni-ec-theme-flat-lightseagreen .fc-rtl .fc-day-grid-event.fc-allow-mouse-resize .fc-start-resizer {}
+
+
+/* Event Limiting
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen a.fc-more {color:#1B9892;}
+.uni-ec-theme-flat-lightseagreen a.fc-more:hover {}
+.uni-ec-theme-flat-lightseagreen .fc-limited {}
+.uni-ec-theme-flat-lightseagreen .fc-day-grid .fc-row {}
+.uni-ec-theme-flat-lightseagreen .fc-more-popover {}
+.uni-ec-theme-flat-lightseagreen .fc-more-popover .fc-event-container {}
+
+/* Now Indicator
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-now-indicator {}
+
+/* Toolbar
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-toolbar {}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .fc-left {}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .fc-right {}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .fc-center {}
+/* the things within each left/right/center section */
+.uni-ec-theme-flat-lightseagreen .fc .fc-toolbar > * > * {}
+/* the first thing within each left/center/right section */
+.uni-ec-theme-flat-lightseagreen .fc .fc-toolbar > * > :first-child {}
+/* title text */
+.uni-ec-theme-flat-lightseagreen .fc-toolbar h2 {font-size:24px;line-height:30px;}
+/* button layering (for border precedence) */
+.uni-ec-theme-flat-lightseagreen .fc-toolbar button {width: 35px;height: 35px;background: #20B2AA;}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar button span {color:#ffffff;}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .fc-state-hover,
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .ui-state-hover {background: #1B9892;}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .fc-state-down {}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .fc-state-active,
+.uni-ec-theme-flat-lightseagreen .fc-toolbar .ui-state-active {}
+.uni-ec-theme-flat-lightseagreen .fc-toolbar button:focus {}
+
+/* BasicView
+--------------------------------------------------------------------------------------------------*/
+/* day row structure */
+.uni-ec-theme-flat-lightseagreen .fc-basicWeek-view .fc-content-skeleton,
+.uni-ec-theme-flat-lightseagreen .fc-basicDay-view .fc-content-skeleton {}
+.uni-ec-theme-flat-lightseagreen .fc-basic-view .fc-body .fc-row {height:140px;}
+/* a "rigid" row will take up a constant amount of height because content-skeleton is absolute */
+.uni-ec-theme-flat-lightseagreen .fc-row.fc-rigid {}
+.uni-ec-theme-flat-lightseagreen .fc-row.fc-rigid .fc-content-skeleton {}
+/* week and day number styling */
+.uni-ec-theme-flat-lightseagreen .fc-basic-view .fc-week-number,
+.uni-ec-theme-flat-lightseagreen .fc-basic-view .fc-day-number {}
+.uni-ec-theme-flat-lightseagreen .fc-basic-view td.fc-week-number span,
+.uni-ec-theme-flat-lightseagreen .fc-basic-view td.fc-day-number {text-align: right;padding: 10px 10px;color:#ababab;}
+.uni-ec-theme-flat-lightseagreen .fc-basic-view .fc-week-number {}
+.uni-ec-theme-flat-lightseagreen .fc-basic-view .fc-week-number span {}
+.uni-ec-theme-flat-lightseagreen .fc-ltr .fc-basic-view .fc-day-number {}
+.uni-ec-theme-flat-lightseagreen .fc-rtl .fc-basic-view .fc-day-number {}
+.uni-ec-theme-flat-lightseagreen .fc-day-number.fc-other-month {}
+
+/* AgendaView all-day area
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-agenda-view .fc-day-grid {}
+.uni-ec-theme-flat-lightseagreen .fc-agenda-view .fc-day-grid .fc-row {}
+.uni-ec-theme-flat-lightseagreen .fc-agenda-view .fc-day-grid .fc-row .fc-content-skeleton {}
+/* TimeGrid axis running down the side (for both the all-day area and the slot area)
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-view .fc-axis {padding: 25px 15px;}
+.uni-ec-theme-flat-lightseagreen .fc-view .fc-axis span {font-size: 14px;}
+.uni-ec-theme-flat-lightseagreen .fc-ltr .fc-axis {}
+.uni-ec-theme-flat-lightseagreen .fc-rtl .fc-axis {}
+.uni-ec-theme-flat-lightseagreen .ui-widget td.fc-axis {}
+
+/* TimeGrid Structure
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-container, /* so scroll container's z-index is below all-day */
+.uni-ec-theme-flat-lightseagreen .fc-time-grid {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-container {overflow:visible!important;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid table {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid > .fc-bg {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-slats,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid > hr {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-content-col {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-content-skeleton {}
+/* divs within a cell within the fc-content-skeleton */
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-business-container {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-bgevent-container {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-highlight-container {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-event-container {margin:0px;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-event-container.fc-event-container-hover {z-index:10!important;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-now-indicator-line {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-helper-container {}
+
+/* TimeGrid Slats (lines that run horizontally)
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-slats td {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-slats .fc-minor td {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-slats .ui-widget-content {}
+
+/* TimeGrid Highlighting Slots
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-highlight-container {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-highlight {}
+
+/* TimeGrid Event Containment
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-ltr .fc-time-grid .fc-event-container {}
+.uni-ec-theme-flat-lightseagreen .fc-rtl .fc-time-grid .fc-event-container {}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event,
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-bgevent {}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-bgevent {}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event {
+border-radius:0;cursor:pointer;margin:0;overflow:hidden;box-shadow:none;border:1px solid #F5F5F5;background-color:#20B2AA;color:#222;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event.uni-ec-event-with-bg-image
+{background-color: rgb(0, 0, 0)!important;border-color: #222222!important;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event:hover {text-decoration:none;z-index:999!important;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event .fc-bg {}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event.uni-ec-event-with-bg-image .fc-bg{
+opacity: 0.5;background-size: cover;background-repeat: no-repeat; background-position: center;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event.uni-ec-event-with-bg-image:hover .fc-bg {opacity: 0.75;}
+
+/* Generic Vertical Event
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-v-event.fc-not-start {}
+.uni-ec-theme-flat-lightseagreen .fc-v-event.fc-not-end {}
+
+/* TimeGrid Event Styling
+----------------------------------------------------------------------------------------------------
+We use the full "fc-time-grid-event" class instead of using descendants because the event won't
+be a descendant of the grid when it is being dragged.
+*/
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.uni-ec-event-with-bg-image {background-color: rgb(0, 0, 0)!important;border-color: #222222!important;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-selected {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-selected .fc-bg {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-content {padding-top:3px;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-content .fc-time span,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-content .fc-title,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-content .uni-fc-users {font-size:13px;font-weight:bold;padding:3px 0;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event:hover .fc-content .fc-time span,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event:hover {text-decoration:none;cursor:pointer;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.uni-ec-event-with-bg-image .fc-content .fc-time span,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.uni-ec-event-with-bg-image .fc-content .fc-title,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.uni-ec-event-with-bg-image .fc-content .uni-fc-users {color:white!important;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-content .fc-time span {font-size:12px;font-weight:normal;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-content .uni-fc-users {font-weight:normal; font-style: italic }
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event .fc-bg {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.uni-ec-event-with-bg-image .fc-bg
+{opacity: 0.5;background-size: cover;background-repeat: no-repeat; background-position: center;}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.uni-ec-event-with-bg-image:hover .fc-bg {opacity: 0.75;}
+/* short mode, where time and title are on the same line */
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-content {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-time,
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-title {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-time span {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-time:before {
+	content: attr(data-start); /* ...instead, display only the start time */
+}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-time:after {
+	content: "\000A0-\000A0"; /* seperate with a dash, wrapped in nbsp's */
+}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-short .fc-title {
+	font-size: .85em; /* make the title text the same size as the time */
+	padding: 0; /* undo padding from above */
+}
+/* resizer (cursor device) */
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-allow-mouse-resize .fc-resizer {}
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-allow-mouse-resize .fc-resizer:after {}
+/* resizer (touch device) */
+.uni-ec-theme-flat-lightseagreen .fc-time-grid-event.fc-selected .fc-resizer {}
+
+.uni-ec-theme-flat-lightseagreen .fc-agendaWeek-view .fc-time-grid .fc-event .fc-content {text-align:center;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaWeek-view .fc-time-grid .fc-event:hover .fc-content {}
+
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event .fc-content {text-align:center;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-event:hover .fc-content {}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-time-grid-event .fc-content .fc-time span,
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-time-grid-event .fc-content .fc-title {font-size:16px;font-weight:bold;}
+.uni-ec-theme-flat-lightseagreen .fc-agendaDay-view .fc-time-grid .fc-time-grid-event .fc-content .fc-time span {font-size:15px;font-weight:normal;}
+
+
+/* Now Indicator
+--------------------------------------------------------------------------------------------------*/
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-now-indicator-line {}
+/* arrow on axis */
+.uni-ec-theme-flat-lightseagreen .fc-time-grid .fc-now-indicator-arrow {}
+.uni-ec-theme-flat-lightseagreen .fc-ltr .fc-time-grid .fc-now-indicator-arrow {}
+.uni-ec-theme-flat-lightseagreen .fc-rtl .fc-time-grid .fc-now-indicator-arrow {}
+
+/* List View
+--------------------------------------------------------------------------------------------------*/
+.fc-event-dot {display: inline-block;width: 10px;height: 10px;border-radius: 5px;background-color:#20B2AA;}
+
+/* view wrapper */
+.fc-rtl .fc-list-view {direction: rtl; /* unlike core views, leverage browser RTL */}
+.fc-list-view {border-width: 1px;border-style: solid;}
+
+/* table resets */
+.fc .fc-list-table {table-layout: auto; /* for shrinkwrapping cell content */}
+
+.fc-list-table td {border-width: 1px 0 0;padding: 8px 14px;}
+
+.fc-list-table tr td {padding: 5px 7px;}
+.fc-list-table tr:first-child td {border-top-width: 0;}
+
+/* day headings with the list */
+.fc-list-heading {border-bottom-width: 1px;}
+
+.fc-list-heading td {font-weight: bold;}
+
+.fc-ltr .fc-list-heading-main { float: left; }
+.fc-ltr .fc-list-heading-alt { float: right; }
+
+.fc-rtl .fc-list-heading-main { float: right; }
+.fc-rtl .fc-list-heading-alt { float: left; }
+
+/* event list items */
+.fc-list-item td {vertical-align: middle;}
+.fc-list-item.fc-has-url {cursor: pointer; /* whole row will be clickable */}
+
+.fc-list-item:hover td {background-color: #f5f5f5;}
+
+.fc-list-item-marker, .fc-list-item-time {white-space: nowrap;width: 1px;}
+/* make the dot closer to the event title */
+.fc-ltr .fc-list-item-marker { padding-right: 0; }
+.fc-rtl .fc-list-item-marker { padding-left: 0; }
+
+.fc-list-item-title a {text-decoration: none;color: inherit}
+.fc-list-item-title a[href]:hover {text-decoration: underline;}
+/* message when no events */
+.fc-list-empty-wrap2 {position: absolute;top: 0;left: 0;right: 0;bottom: 0;}
+.fc-list-empty-wrap1 {width: 100%;height: 100%;display: table}
+.fc-list-empty {display: table-cell;vertical-align: middle;text-align: center;}
+.fc-unthemed .fc-list-empty {background-color: #eee;}

@@ -1,0 +1,43 @@
+.js-uni-profilini-avatar-add {clear: none!important;}
+.js-uni-profilini-avatar-add:after, .js-uni-profilini-avatar-add:before {display: block;height: 0;visibility: hidden;clear: both;content: " ";}
+
+.js-uni-profilini-add-avatar-link-container {position: relative;}
+
+.js-uni-profilini-avatar-add {display: inline-block;height: 40px; line-height: 38px;padding-right: 14px; background: #2ecc71;color: #fff; text-decoration: none;}
+.js-uni-profilini-avatar-add span {display: block;float: left; width: 40px;height: 40px;line-height: 39px;margin-right: 14px;background: #27ae60;font-size: 20px;text-align: center;}
+
+.js-uni-profilini-avatar-add.uni-profilini-avatar-added {position: absolute;left: 0;top: 0;width: 50px;height: 50px;padding-right: 0; overflow: hidden;z-index: 2;}
+.js-uni-profilini-avatar-add.uni-profilini-avatar-added span {width: 50px;height: 50px;line-height: 48px;background: #2ecc71;font-size: 26px;}
+
+.js-uni-profilini-avatar-container {position: relative;padding-left: 51px;}
+.js-uni-profilini-avatar-container img {vertical-align: middle;}
+.js-uni-profilini-avatar-remove {display: block;position: absolute;left: 0;top: 50px; width: 50px;height: 50px;line-height: 48px;background: #e74c3c; color: #fff;font-size: 20px; text-decoration: none;text-align: center;}
+.js-uni-profilini-avatar-add:hover, .js-uni-profilini-avatar-add:active, .js-uni-profilini-avatar-add:focus,
+.js-uni-profilini-avatar-remove:hover, .js-uni-profilini-avatar-remove:active, .js-uni-profilini-avatar-remove:focus {color: #fff;-webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0 0px 0px rgba(0,0,0,0);box-shadow: 0 0px 0px rgba(0,0,0,0);}
+
+/* SI repeat  */
+.uni-profilini-si-repeat {width: 426px;padding-bottom: 30px;}
+
+td.uni-profilini-si-inputs-holder {padding-left: 4px;padding-right: 4px;padding-bottom: 0px;}
+td.uni-profilini-si-inputs-holder span.uni-profilini-si-inputs-holder-title {display: block;margin: 0px 0 10px;font-weight: bold;}
+
+td.uni-profilini-si-inputs-holder .icons-selector .selector {width: 100px;}
+td.uni-profilini-si-inputs-holder .icons-selector .selected-icon {border: 0;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;-webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0 0px 0px rgba(0,0,0,0);box-shadow: 0 0px 0px rgba(0,0,0,0);}
+td.uni-profilini-si-inputs-holder .icons-selector .selector-button {width: 40px; border:0;background: #1abc9c; -webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;-webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0 0px 0px rgba(0,0,0,0);box-shadow: 0 0px 0px rgba(0,0,0,0);}
+td.uni-profilini-si-inputs-holder .icons-selector .selector-button:hover {background: #1abc9c;}
+td.uni-profilini-si-inputs-holder .icons-selector .selector-button i {color: #fff;text-shadow: 0px 0px 0px rgba(0,0,0,0);}
+td.uni-profilini-si-inputs-holder .icons-selector .selector-button:hover i {color: #fff;}
+
+td.uni-profilini-si-inputs-holder input.uni-profilini-si-inputs-holder-url {margin: 0 0 0 4px;padding: 0 10px;border: 0;width: 212px; height: 40px;vertical-align: bottom; -webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0 0px 0px rgba(0,0,0,0);box-shadow: 0 0px 0px rgba(0,0,0,0);}
+
+
+td.uni-profilini-si-add-holder {padding: 0 0 8px 0;}
+td.uni-profilini-si-move-holder {padding-right: 4px;padding-left: 0px;padding-bottom: 0px; vertical-align: bottom;}
+td.uni-profilini-si-remove-holder {padding-left: 4px;padding-bottom: 0px; vertical-align: bottom;}
+
+.uni-profilini-si-add {display: inline-block; height: 40px;line-height: 38px;padding: 0 14px; background: #2ecc71;color: #fff; text-decoration: none;cursor: pointer;}
+.uni-profilini-si-add:hover {color: #fff;}
+.uni-profilini-si-move {display: inline-block; width: 40px;height: 40px;line-height: 38px;background: #1abc9c;color: #fff;font-size: 18px; text-align: center;cursor: move;}
+.uni-profilini-si-remove {display: inline-block; width: 40px;height: 40px;line-height: 36px;background: #e74c3c;color: #fff;font-size: 18px; text-align: center;cursor: pointer;}
+
+.uni-profilini-si-row.ui-sortable-placeholder {min-height: 83px;}
