@@ -50,12 +50,10 @@ services:
     depends_on:
       - wordpress
     ports:
-      - "80:80"    # http
-      - "443:443"   # https
+      - "80:80"
     volumes:
       - ${WORDPRESS_LOCAL_HOME}:/var/www/html
       - ${NGINX_CONF}:/etc/nginx/conf.d/default.conf
-      - ${NGINX_SSL_CERTS}:/etc/ssl:ro
       - ${NGINX_LOGS}:/var/log/nginx
 
   # adminer - bring up only as needed - bypasses nginx
@@ -75,4 +73,3 @@ networks:
   wordpress:
     name: wp-wordpress
     driver: bridge
-    external: true
